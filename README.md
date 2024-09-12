@@ -30,15 +30,29 @@ Special thanks to [BuildWithAngga](https://buildwithangga.com/) for the inspirat
 ## Preview Project
 
 -Buyer
+
+
 ![image](https://github.com/user-attachments/assets/27ab5973-e3f1-413f-ba65-cf5c6f79b523)
+
+
 ![image](https://github.com/user-attachments/assets/437e65b6-0204-482c-9a7a-d41363363fe5)
+
+
 ![image](https://github.com/user-attachments/assets/9d1e808d-5d66-4e7e-934c-c3b0d577da65)
+
+
 ![image](https://github.com/user-attachments/assets/e546129d-e8fe-4980-86b6-5b940c66b995)
+
+
 ![image](https://github.com/user-attachments/assets/ae87e969-67f4-44b8-90ac-61d0abefc821)
 
 -Admin
+
+
 ![image](https://github.com/user-attachments/assets/2e66b94e-bf72-4c92-b240-557a6899fd4a)
+
 ![image](https://github.com/user-attachments/assets/b39b6dac-bf62-4064-9093-e5ab5acaa35d)
+
 ![image](https://github.com/user-attachments/assets/c9d48f9c-af5a-4612-be96-40e67ec57f37)
 
 
